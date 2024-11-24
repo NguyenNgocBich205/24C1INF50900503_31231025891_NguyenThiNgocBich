@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_31231025891_NGUYEN_THI_NGOC_BICH</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>_31231025891_NGUYEN_THI_NGOC_BICH.Session07</StartupObject>
+  </PropertyGroup>
+
+</Project>
